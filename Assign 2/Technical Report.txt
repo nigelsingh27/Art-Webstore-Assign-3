@@ -1,0 +1,54 @@
+Technical Report
+Team 48
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**The file needs to be hosted on a server in order to run as they are PHP files.
+**The following link can be used to view our web pages: http://scs.ryerson.ca/~fihan/a2/home.php
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We kept a simple design, for a cleaner user interface.
+On top of this, we felt that this provides the user with a better focus on the functionality of
+our site.
+
+The main languages used were CSS, HTML, JavaScript, and PHP.
+
+CSS was used for aesthetics. We kept a plain layout throughout the files, but even so, CSS
+provided us with many functionalities such as positioning text and images where we wanted.
+
+HTML was used throughout our web pages as we did not see a reason not to include it. It provides
+great functionalities and is compatability with other languages, so an overall great basis for our
+web pages. Parts 1, 3, and 4 heavily relied on HTML. This was because the requirements for
+these parts could be easily achieved with predefined tags in this language.
+
+JavaScript was used throughout many of the web pages to provide updates on the client side.
+It was mainly used to tackle on parts 2 and 4, as it required us to update the main page with user
+interaction. More specifically, we needed to display two small boxes on the same window whenever
+the user clicked on an item in the Art Works or Artists drop down menues. With our understanding
+of JavaScript, we ultimately chose it for these parts and wouldn't have wanted to choose another
+language.
+
+After Lab 3, we gained a significant understanding of the workings of PHP first hand. So, when it
+came to part 6, that is, figuring out the Shopping Cart functionality, we knew that it would be the
+best choice. The reason being was that there was a need for keeping track of values for the duration
+of the user visit, and PHP already grants us this possibility through the use of sessions.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A couple things to note:
+
+The exact prices of the art works were not available.
+So we made our own prices for the art works.
+The quantity for each art work starts at 1, because there is only one of that particular art work.
+
+We found that part 6 was not entirely clear.
+The dialogue box had no restrictions so we chose to make a new window for it.
+If the item was purchased, we simply just took the quantity out.
+The total invoice is still displayed.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Load schedule
+50% - Han, Felix
+50% - Singh, Nigel
